@@ -18,7 +18,7 @@ pip install .
 First run the following command the download the dataset and create folders. Then you can put the weight file in the weight folder.
 
 ``` sh
-python main.py --train
+python main.py
 ```
 
 To train the model with parameter search:
