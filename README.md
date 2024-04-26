@@ -5,7 +5,7 @@ This is an implementation of three-layer mlp model without pytorch or tensorflow
 ## Setup
 
 ``` sh
-git clone 
+git clone https://github.com/hotdog-zz/Computer-vision-pj1.git
 cd ./Computer-vision-pj1
 
 conda create -n pj1 python=3.10
