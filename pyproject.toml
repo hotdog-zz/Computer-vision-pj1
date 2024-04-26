@@ -5,7 +5,7 @@ description = ""
 authors = [
     {name = "hotdog-zz", email = "21307130044@m.fudan.edu.cn"},
 ]
-dependencies = ["numpy", "matplotlib", "tqdm"]
+dependencies = ["numpy", "matplotlib", "transformers"]
 requires-python = "==3.10.14"
 readme = "README.md"
 license = {text = "MIT"}
