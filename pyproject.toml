@@ -6,7 +6,7 @@ authors = [
     {name = "hotdog-zz", email = "21307130044@m.fudan.edu.cn"},
 ]
 dependencies = ["numpy", "matplotlib"]
-requires-python = "==3.10"
+requires-python = "==3.10.14"
 readme = "README.md"
 license = {text = "MIT"}
 
